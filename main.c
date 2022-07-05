@@ -2,7 +2,7 @@
 void multiplication_table();
 int main{
 
-printf("hihi");x
+printf("hihi");
 multiplication_table();
 return 0;}
 
